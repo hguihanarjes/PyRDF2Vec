@@ -4,4 +4,4 @@
    :start-after: rdf2vec-begin
    :end-before: getting-started-end
 
-<!-- maintenance 2019 -->
+<!-- maintenance 2020 -->
