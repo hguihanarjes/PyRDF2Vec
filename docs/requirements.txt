@@ -1,0 +1,8 @@
+gensim
+rdflib
+scikit-learn
+sphinx<7.0.0
+sphinx-autodoc-typehints
+sphinx-rtd-theme
+sphinxcontrib-apidoc
+tomlkit
